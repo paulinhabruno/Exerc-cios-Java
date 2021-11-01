@@ -1,5 +1,4 @@
 //continue a solução
-
 let alcohol = 0;
 let gasoline = 0;
 let diesel = 0;
@@ -21,12 +20,11 @@ while ( code != 4 ) {
     diesel++;
       break;
       
-      case 4:
+    case 4:
       break;
-      
-      default:
-      break;
-      
+     
+    default:
+      break;   
   }
 }
 
